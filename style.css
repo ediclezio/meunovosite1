@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    margin: 0;
+    background: #000000c4;
+}
+
+nav a {
+    
+    display: block;
+    padding: 10px 0px;
+    width: 100px;
+    margin: 5px auto;
+    border: 1px solid #AAA;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white; 
+}
+section h2 {
+    
+    margin: 0; 
+}
+
+section p {
+    
+    margin-bottom: 0; 
+}
+
+h1 {
+    
+    font-size: 4.0em;
+    color: black; 
+    
+}
+
+#f1 {
+    background-image: url(Ferrari-812-Superfast.jpg);
+    background-size: cover;
+    background-position:center;
+    font-size: 1.0em;
+    margin: 0px 0px; 
+    padding: 70px 70px
+    
+}
+
+#f2 {
+    
+    background-image: url(Lamborghini%20Huracan.jpg);
+    background-size: cover;
+    background-position:center;
+    font-size: 1.0em;
+    margin: 0px 0px; 
+    padding: 70px 70px
+}
+
+#f3 {
+    
+    background-image: url(Audi-TT-RS.jpg);
+    background-size: cover;
+    background-position:center;
+    font-size: 1.0em;
+    margin: 0px 0px; 
+    padding: 70px 70px
+}
+
+#f4 {
+    
+    background-image: url(Porsche%20Panamera%20Sport%20Turismo.jpg);
+    background-size: cover;
+    background-position:center;
+    font-size: 1.0em;
+    margin: 0px 0px; 
+    padding: 70px 70px
+}
+
+#f5 {
+    
+    background-image: url(Mercedes%20-%20AMG%20GT%20R.jpg);
+    background-size: cover;
+    background-position:center;
+    font-size: 1.0em;
+    margin: 0px 0px; 
+    padding: 70px 70px
+}
+
+
+
+p {
+    font-size: 1.5em;
+    color: white;
+}
+footer {
+    
+    background-color: #99a2aa5c;
+    overflow: auto;
+    font-size: 1.5em;
+    color: white;
+}
+
+#principal {
+    
+    background-image: url(Asfalto);
+    background-size:cover;
+    background-position:right;
+}
+
+section {
+    
+    margin: 0px 0px; 
+    padding: 30px 10px;
+    background: black;
+
+}
+section a {
+    text-decoration: none;
+    color: black;
+    font-size: 2.0em;
+}
+
+a:hover{text-decoration: underline; color: red};
